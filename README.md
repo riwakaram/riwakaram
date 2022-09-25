@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate in programming projects
 - 📫 How to reach me:
       Email: riwa.karam@gmail.com
-      LinkedIn: linkedin.com/in/riwakaram0713
+      LinkedIn: https://linkedin.com/in/riwakaram0713
