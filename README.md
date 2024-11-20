@@ -3,5 +3,5 @@
 - 🌱 I’m currently a PhD student at the University of California, Irvine as a member of the Robot Ecology Lab
 - 💞️ I’m looking to collaborate in programming projects
 - 📫 How to reach me:
-      Email: riwa.karam@gmail.com
-      LinkedIn: https://linkedin.com/in/riwakaram0713
+      Email: riwa.karam@icloud.com
+      LinkedIn: https://linkedin.com/in/riwakaram
