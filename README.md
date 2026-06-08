@@ -32,8 +32,6 @@ teams can collaborate across tasks, capabilities, and environments.
 
 ## Connect
 
+- [LinkedIn](https://www.linkedin.com/in/riwakaram/)
 - [Personal Website](https://riwakaram.github.io)
 - [Google Scholar](https://scholar.google.com/citations?user=Xt1TuawAAAAJ&hl=en)
-- [LinkedIn](https://www.linkedin.com/in/riwakaram/)
-- [Publications](https://riwakaram.github.io/publications)
-- [CV](https://riwakaram.github.io/vitae)
